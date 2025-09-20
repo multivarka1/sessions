@@ -1,0 +1,6 @@
+name: session
+version: '${version}'
+main: ru.multivarka.session.Session
+api-version: '1.21'
+authors: [ multivarka ]
+softdepend: [ PlaceholderAPI ]
